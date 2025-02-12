@@ -1,4 +1,4 @@
-# Vinove Employee Management made by Deepanshu Molasi
+# Employee ManagementSystem made by Snehasis Sarkar
 
 A new Flutter project.
 
